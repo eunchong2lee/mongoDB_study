@@ -7,7 +7,7 @@ const mongoose = require('mongoose')
 const { generateFakeData } = require("../faker2")
 
 
-const MONGO_URI = 'mongodb+srv://admin:NlNne2DtbqeIr631@mongodbtutorial.nhbmx.mongodb.net/BlogService?retryWrites=true&w=majority'
+const MONGO_URI = ''
 
 const server = async () => {
     try {
